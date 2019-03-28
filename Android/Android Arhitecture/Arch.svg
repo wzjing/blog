@@ -1,0 +1,271 @@
+<svg id="Arch" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 300">
+  <defs>
+    <style>
+      .cls-1, .cls-16, .cls-2, .cls-4, .cls-6, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-3 {
+        fill: #00c1e9;
+      }
+
+      .cls-14, .cls-15, .cls-3, .cls-5, .cls-7, .cls-9 {
+        stroke: #707070;
+      }
+
+      .cls-17, .cls-4 {
+        font-size: 18px;
+      }
+
+      .cls-16, .cls-17, .cls-4, .cls-6, .cls-8 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        fill: #ff5050;
+      }
+
+      .cls-6 {
+        font-size: 16px;
+      }
+
+      .cls-7 {
+        fill: #dc77ff;
+      }
+
+      .cls-8 {
+        font-size: 14px;
+      }
+
+      .cls-19, .cls-9 {
+        fill: none;
+      }
+
+      .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-10, .cls-12 {
+        fill: #367fff;
+        font-size: 10px;
+      }
+
+      .cls-10, .cls-13 {
+        font-family: MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI;
+      }
+
+      .cls-11, .cls-12 {
+        font-family: YuGothicUI-Semibold, Yu Gothic UI;
+        font-weight: 600;
+      }
+
+      .cls-13 {
+        font-weight: 400;
+      }
+
+      .cls-14 {
+        fill: #7200d5;
+      }
+
+      .cls-15 {
+        fill: #ff732a;
+      }
+
+      .cls-16 {
+        font-size: 12px;
+      }
+
+      .cls-18 {
+        stroke: none;
+      }
+
+      .cls-20 {
+        filter: url(#BG-3);
+      }
+
+      .cls-21 {
+        filter: url(#BG-2);
+      }
+
+      .cls-22 {
+        filter: url(#BG);
+      }
+    </style>
+    <filter id="BG" x="61" y="26" width="258" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="BG-2" x="371" y="26" width="258" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="BG-3" x="681" y="26" width="258" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="BG-4" data-name="BG" class="cls-1" width="1000" height="300"/>
+  <g id="MVC" transform="translate(38)">
+    <g class="cls-22" transform="matrix(1, 0, 0, 1, -38, 0)">
+      <rect id="BG-5" data-name="BG" class="cls-2" width="240" height="240" transform="translate(70 32)"/>
+    </g>
+    <g id="View">
+      <g id="BG-6" data-name="BG" class="cls-3" transform="translate(116 48)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="View-2" data-name="View" class="cls-4" transform="translate(133 90)"><tspan x="0" y="0">View</tspan></text>
+    </g>
+    <g id="Model" transform="translate(60 152)">
+      <g id="BG-7" data-name="BG" class="cls-5" transform="translate(124 32)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="Model-2" data-name="Model" class="cls-6" transform="translate(138 74)"><tspan x="0" y="0">Model</tspan></text>
+    </g>
+    <g id="Controller" transform="translate(-60 152)">
+      <g id="BG-8" data-name="BG" class="cls-7" transform="translate(108 32)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="Controller-2" data-name="Controller" class="cls-8" transform="translate(113 73)"><tspan x="0" y="0">Controller</tspan></text>
+    </g>
+    <g id="C-M" transform="translate(4 2)">
+      <g id="Arrow" transform="translate(-1 10)">
+        <path id="Path_79" data-name="Path 79" class="cls-9" d="M121.973,208c10.2-.053,52.027,0,52.027,0l-4-4"/>
+      </g>
+    </g>
+    <g id="V-C" transform="translate(-153.892 174.002) rotate(-60)">
+      <g id="Arrow-2" data-name="Arrow" transform="translate(299.804 431.536) rotate(-180)">
+        <path id="Path_79-2" data-name="Path 79" class="cls-9" d="M113.419,208.061C123.617,208.008,174,208,174,208l-4-4"/>
+      </g>
+      <g id="Arrow-3" data-name="Arrow" transform="translate(10.66 10.196)">
+        <path id="Path_79-3" data-name="Path 79" class="cls-9" d="M112.538,207.894C122.736,207.841,174,208,174,208l-4-4"/>
+      </g>
+    </g>
+    <g id="M-V" transform="translate(310.115 -88.96) rotate(61)">
+      <g id="Arrow-4" data-name="Arrow" transform="translate(293.596 431.43) rotate(-180)">
+        <path id="Path_79-4" data-name="Path 79" class="cls-9" d="M109.674,207.854C119.873,207.8,174,208,174,208l-4-4"/>
+      </g>
+      <g id="Arrow-5" data-name="Arrow" transform="translate(9.296 9.99)">
+        <path id="Path_79-5" data-name="Path 79" class="cls-9" d="M107.237,207.977C117.435,207.924,174,208,174,208l-4-4"/>
+      </g>
+    </g>
+    <g id="Event">
+      <text id="请求数据" class="cls-10" transform="translate(118.897 173.803) rotate(-60)"><tspan x="0" y="0">请</tspan><tspan class="cls-11" y="0">求数据</tspan></text>
+      <text id="用户交互" class="cls-12" transform="translate(96.897 162.803) rotate(-60)"><tspan x="0" y="0">用</tspan><tspan class="cls-13" y="0">户</tspan><tspan y="0">交互</tspan></text>
+      <text id="数据存储" class="cls-12" transform="translate(130.433 213.482)"><tspan x="0" y="0">数据存</tspan><tspan class="cls-13" y="0">储</tspan></text>
+      <text id="查询数据" class="cls-10" transform="translate(187.969 132.162) rotate(60)"><tspan x="0" y="0">查询</tspan><tspan class="cls-11" y="0">数据</tspan></text>
+      <text id="状态通知" class="cls-12" transform="translate(167.969 142.162) rotate(60)"><tspan x="0" y="0">状</tspan><tspan class="cls-13" y="0">态</tspan><tspan y="0">通知</tspan></text>
+    </g>
+  </g>
+  <g id="MVP" transform="translate(348)">
+    <g class="cls-21" transform="matrix(1, 0, 0, 1, -348, 0)">
+      <rect id="BG-9" data-name="BG" class="cls-2" width="240" height="240" transform="translate(380 32)"/>
+    </g>
+    <g id="View-3" data-name="View">
+      <g id="BG-10" data-name="BG" class="cls-3" transform="translate(116 48)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="View-4" data-name="View" class="cls-4" transform="translate(133 90)"><tspan x="0" y="0">View</tspan></text>
+    </g>
+    <g id="Model-3" data-name="Model" transform="translate(60 152)">
+      <g id="BG-11" data-name="BG" class="cls-5" transform="translate(124 32)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="Model-4" data-name="Model" class="cls-6" transform="translate(138 74)"><tspan x="0" y="0">Model</tspan></text>
+    </g>
+    <g id="Presenter" transform="translate(-60 152)">
+      <g id="BG-12" data-name="BG" class="cls-14" transform="translate(108 32)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="Presenter-2" data-name="Presenter" class="cls-8" transform="translate(113 73)"><tspan x="0" y="0">Presenter</tspan></text>
+    </g>
+    <g id="M-P" transform="translate(0 2)">
+      <g id="Arrow-6" data-name="Arrow" transform="translate(4 10)">
+        <path id="Path_79-6" data-name="Path 79" class="cls-9" d="M121.491,208c10.2-.053,52.509,0,52.509,0l-4-4"/>
+      </g>
+      <g id="Arrow-7" data-name="Arrow" transform="translate(301 432) rotate(180)">
+        <path id="Path_79-7" data-name="Path 79" class="cls-9" d="M120.6,208c10.2-.053,53.4,0,53.4,0l-4-4"/>
+      </g>
+    </g>
+    <g id="V-C-2" data-name="V-C" transform="translate(-153.892 174.002) rotate(-60)">
+      <g id="Arrow-8" data-name="Arrow" transform="translate(307 432) rotate(-180)">
+        <path id="Path_79-8" data-name="Path 79" class="cls-9" d="M112.42,208.006C122.618,207.953,174,208,174,208l-4-4" transform="translate(8.062 -0.036)"/>
+      </g>
+      <g id="Arrow-9" data-name="Arrow" transform="translate(10.294 11.562)">
+        <path id="Path_79-9" data-name="Path 79" class="cls-9" d="M112.073,208.014C122.271,207.962,174,208,174,208l-4-4"/>
+      </g>
+    </g>
+    <g id="Event-2" data-name="Event">
+      <text id="请求数据-2" data-name="请求数据" class="cls-10" transform="translate(120.897 173.803) rotate(-60)"><tspan x="0" y="0">请</tspan><tspan class="cls-11" y="0">求数据</tspan></text>
+      <text id="逻辑控制" class="cls-10" transform="translate(96.897 163.803) rotate(-60)"><tspan x="0" y="0">逻辑</tspan><tspan class="cls-11" y="0">控制</tspan></text>
+      <text id="数据查询" class="cls-12" transform="translate(132.433 214.482)"><tspan x="0" y="0">数据</tspan><tspan class="cls-13" y="0">查询</tspan></text>
+      <text id="数据返回" class="cls-12" transform="translate(133.433 239.482)"><tspan x="0" y="0">数据返回</tspan></text>
+    </g>
+  </g>
+  <g id="MVVM" transform="translate(658)">
+    <g class="cls-20" transform="matrix(1, 0, 0, 1, -658, 0)">
+      <rect id="BG-13" data-name="BG" class="cls-2" width="240" height="240" transform="translate(690 32)"/>
+    </g>
+    <g id="View-5" data-name="View">
+      <g id="BG-14" data-name="BG" class="cls-3" transform="translate(116 48)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="View-6" data-name="View" class="cls-4" transform="translate(133 90)"><tspan x="0" y="0">View</tspan></text>
+    </g>
+    <g id="Model-5" data-name="Model" transform="translate(60 152)">
+      <g id="BG-15" data-name="BG" class="cls-5" transform="translate(124 32)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="Model-6" data-name="Model" class="cls-6" transform="translate(138 74)"><tspan x="0" y="0">Model</tspan></text>
+    </g>
+    <g id="Presenter-3" data-name="Presenter" transform="translate(-60 152)">
+      <g id="BG-16" data-name="BG" class="cls-15" transform="translate(108 32)">
+        <circle class="cls-18" cx="36" cy="36" r="36"/>
+        <circle class="cls-19" cx="36" cy="36" r="35.5"/>
+      </g>
+      <text id="ViewModel" class="cls-16" transform="translate(114 73)"><tspan x="0" y="0">ViewModel</tspan></text>
+    </g>
+    <g id="M-P-2" data-name="M-P" transform="translate(0 2)">
+      <g id="Arrow-10" data-name="Arrow" transform="translate(2 10)">
+        <path id="Path_79-10" data-name="Path 79" class="cls-9" d="M123.237,208c10.2-.053,50.763,0,50.763,0l-4-4"/>
+      </g>
+      <g id="Arrow-11" data-name="Arrow" transform="translate(302 432) rotate(180)">
+        <path id="Path_79-11" data-name="Path 79" class="cls-9" d="M123.764,208c10.2-.053,50.236,0,50.236,0l-4-4"/>
+      </g>
+    </g>
+    <g id="V-C-3" data-name="V-C" transform="translate(-153.892 174.002) rotate(-60)">
+      <g id="Arrow-12" data-name="Arrow" transform="translate(10.562 16.026)">
+        <path id="Path_79-12" data-name="Path 79" class="cls-9" d="M170,204l4,4-60.976.806,4.675,4.633"/>
+      </g>
+    </g>
+    <g id="Event-3" data-name="Event">
+      <text id="双向绑定" class="cls-12" transform="translate(119.897 174.803) rotate(-60)"><tspan x="0" y="0">双向</tspan><tspan class="cls-13" y="0">绑</tspan><tspan y="0">定</tspan></text>
+      <text id="数据查询-2" data-name="数据查询" class="cls-12" transform="translate(129.433 214.482)"><tspan x="0" y="0">数据</tspan><tspan class="cls-13" y="0">查询</tspan></text>
+      <text id="数据返回-2" data-name="数据返回" class="cls-12" transform="translate(135.433 238.482)"><tspan x="0" y="0">数据返回</tspan></text>
+    </g>
+  </g>
+  <text id="MVC-2" data-name="MVC" class="cls-17" transform="translate(171 29)"><tspan x="0" y="0">MVC</tspan></text>
+  <text id="MVP-2" data-name="MVP" class="cls-17" transform="translate(481 29)"><tspan x="0" y="0">MVP</tspan></text>
+  <text id="MVVM-2" data-name="MVVM" class="cls-17" transform="translate(783 29)"><tspan x="0" y="0">MVVM</tspan></text>
+</svg>
